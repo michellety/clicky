@@ -1,0 +1,11 @@
+.about {
+    min-height: 350px;
+    padding-top: 30px;
+    text-align: center;
+    background-image: url("/images/mtpic-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(75, 139, 118);
+    text-shadow: -.5px -.5px 0 #000, .5px -.5px 0 #000, -.5px .5px 0 #000, .5px .5px 0 #000;
+    font-size: x-large;
+}

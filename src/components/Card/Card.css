@@ -1,0 +1,15 @@
+.card > img {
+  border-radius: 2px;
+  height: 200px;
+  margin: .5rem;
+  position: relative;
+  width: 250px;
+  box-shadow: 0 3px 6px rgb(116, 204, 170), 0 3px 6px rgb(116, 204, 170);
+  overflow: auto;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
+
+
